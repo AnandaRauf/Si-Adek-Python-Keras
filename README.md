@@ -1,11 +1,16 @@
 Si Adek Python Keras
+
 ![Si Adek Keras](https://raw.githubusercontent.com/AnandaRauf/Si-Adek-Python-Keras/main/Ss%201%20Si%20Adek%20Python%20Keras.png)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Sistem Informasi Deteksi Benda Berbahaya Keras Python.
+
 Version 1.0
+
 Developed by Ananda Rauf Maududi.
+
 Developed date: 24 November 2021.
+
 Feature:
 - Object Detection with using data model keras from Teachable Machine Google and using Webcam.
 
