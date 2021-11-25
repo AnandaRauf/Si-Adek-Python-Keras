@@ -1,4 +1,5 @@
 Si Adek Python Keras
+![Si Adek Keras](https://raw.githubusercontent.com/AnandaRauf/Si-Adek-Python-Keras/main/Ss%201%20Si%20Adek%20Python%20Keras.png)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Sistem Informasi Deteksi Benda Berbahaya Keras Python.
@@ -26,6 +27,6 @@ Contacts me:
 - Instagram: https://www.instagram.com/anandaraufm
 - Linkedin: https://www.linkedin.com/in/ananda-rauf-maududi
 - Email: anandaraufm@gmail.com and anandarauf02@gmail.com
-- Whatsapp: wa.me/6283879627956
+- Whatsapp: https://wa.me/6283879627956
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
