@@ -14,9 +14,9 @@ Contribute project?
 
 Requirement:
 - Python version : 3.9.5, download here: https://www.python.org/downloads
-- Library python : Tensorflow and Keras.
+- Library python : Tensorflow,Keras, Open Cv2 and Open CV Contrib.
 - Setting path environment variable in System and User: path/Python39/Scripts and path/Python39
-- Install Library : pip install tensorflow, and pip install keras.
+- Install Library : pip install tensorflow,pip install keras, pip install opencv-python, and pip install opencv-contrib-python
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
