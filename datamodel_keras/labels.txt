@@ -1,0 +1,11 @@
+0 Benda Tajam
+1 Pisau
+2 Narkotika
+3 Sabu-Sabu
+4 Senjata Api
+5 Desert Eagle
+6 Pistol
+7 Alat Tinju
+8 Knuckle
+9 Alat Bela Diri
+10 Nunchaku
